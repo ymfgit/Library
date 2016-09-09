@@ -1,0 +1,8 @@
+2016-03-12 10:51:22  [ main:0 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.loan' doesn't exist
+2016-03-12 10:51:22  [ main:30 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.manager' doesn't exist
+2016-03-12 10:51:22  [ main:99 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.reader' doesn't exist
+2016-03-12 10:52:11  [ main:0 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.loan' doesn't exist
+2016-03-12 10:52:11  [ main:22 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.manager' doesn't exist
+2016-03-12 10:52:11  [ main:84 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.reader' doesn't exist
+2016-03-12 11:00:03  [ main:0 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: FUNCTION library.trunc does not exist
+2016-03-12 11:00:03  [ main:92 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'sfxs' in 'where clause'

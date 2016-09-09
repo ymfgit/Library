@@ -1,0 +1,2 @@
+2016-03-14 00:40:29  [ main:0 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: FUNCTION library.trunc does not exist
+2016-03-14 00:40:29  [ main:85 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'sfxs' in 'where clause'

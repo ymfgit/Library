@@ -1,0 +1,12 @@
+2016-03-11 17:21:31  [ main:0 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.loan' doesn't exist
+2016-03-11 17:21:31  [ main:39 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.manager' doesn't exist
+2016-03-11 17:21:31  [ main:123 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.reader' doesn't exist
+2016-03-11 17:28:27  [ main:0 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.loan' doesn't exist
+2016-03-11 17:28:27  [ main:22 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.manager' doesn't exist
+2016-03-11 17:28:27  [ main:95 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.reader' doesn't exist
+2016-03-11 17:34:19  [ main:352285 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.loan' doesn't exist
+2016-03-11 17:34:19  [ main:352301 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.manager' doesn't exist
+2016-03-11 17:34:19  [ main:352317 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.reader' doesn't exist
+2016-03-11 17:34:20  [ main:353478 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.loan' doesn't exist
+2016-03-11 17:34:20  [ main:353490 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.manager' doesn't exist
+2016-03-11 17:34:20  [ main:353509 ] - [ ERROR ]  com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'test.reader' doesn't exist

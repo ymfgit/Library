@@ -1,0 +1,2 @@
+2016-06-26 14:40:32  [ main:0 ] - [ ERROR ]  java.sql.SQLException: Io 异常: The Network Adapter could not establish the connection
+2016-06-26 14:40:37  [ main:4654 ] - [ ERROR ]  java.sql.SQLException: Io 异常: The Network Adapter could not establish the connection
